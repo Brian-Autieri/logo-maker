@@ -2,19 +2,28 @@
 
 ## Description
 
-The purpose of this project was to give users a way to create a logo using SVGs. Users can choose from a variety of SVGs to create a logo that they can then download and use for their own purposes. The user can enter three characters of their choice and choose from a variety of colors and shapes to customize their logo. 
+The purpose of this project was to give users a way to create a logo using SVGs. The user can enter three characters of their choice and choose from a variety of colors and shapes to customize their logo. 
 
 ## Usage
 
+Through the integrated terminal, users can run the application by entering "node index.js" and pressing enter. The user will then be prompted to enter:
 
+- Three characters of their choice
+- A color for the text
+- A shape for the logo
+- A color for the shape
+
+Once the user has entered all of the required information, the application will generate an SVG logo with the user's choices. The logo will be saved in the "logos" folder. Right click on logo.svg and select "Open with Live Server" to view the logo in the browser.
 
 ### Video Demonstration Link
 
 https://drive.google.com/file/d/1t2yM7CK8ESOvu4Z08QcheRoLwEWj9jLX/view
 
-### Webpage Screenshot
+### Application Screenshots
 
-![alt text](.png)
+![alt text](baa-logo.png)
+
+![alt text](node-run.png)
 
 ## Credits
 
