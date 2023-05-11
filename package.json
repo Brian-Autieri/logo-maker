@@ -1,0 +1,25 @@
+{
+  "name": "logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "8.2",
+    "shapes": "^0.4.0",
+    "svg": "^0.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
